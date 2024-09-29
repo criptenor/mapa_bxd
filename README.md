@@ -1,2 +1,29 @@
-# mapa_bxd
-Quanto mais nos afastamos do centro da capital, menor é a disponibilidade de dados essenciais para a formulação de políticas públicas do estado do Rio de Janeiro e do Brasil. Mesmo dentro da Região Metropolitana, a 60 km do centro da capital, paramos e pensamos: "Cadê os dados estariam aqui?" 
+
+# Mapas Baixada
+
+## Requisitos para rodar o projeto:
+
+### Criar o ambiente virtual:
+```bash
+python -m venv venv
+```
+
+### Ativar o ambiente virtual:
+- No Linux/macOS:
+  ```bash
+  source venv/bin/activate
+  ```
+- No Windows:
+  ```bash
+  venv\Scripts\activate
+  ```
+
+### Instalar as bibliotecas necessárias:
+```bash
+pip install folium flask supabase
+```
+
+### Bibliotecas:
+- Folium
+- Flask
+- Supabase
