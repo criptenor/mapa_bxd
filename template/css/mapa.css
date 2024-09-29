@@ -1,0 +1,12 @@
+.mapa_container_master{
+    width: 90vw;
+    min-height: 60vh;
+    background-color: azure;
+    border-radius: 18px;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+}
